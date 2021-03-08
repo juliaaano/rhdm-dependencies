@@ -10,7 +10,7 @@
   <packaging>pom</packaging>
 
   <name>RHDM Dependencies</name>
-  <description>Red Had Decision Manager dependencies / parent POM.</description>
+  <description>Red Hat Decision Manager dependencies / parent POM.</description>
   <url>https://github.com/juliaaano/rhdm-dependencies</url>
   <licenses>
     <license>

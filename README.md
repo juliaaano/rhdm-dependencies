@@ -1,7 +1,7 @@
 # RHDM Dependencies
 [![Build Status](https://travis-ci.com/juliaaano/rhdm-dependencies.svg)](https://travis-ci.com/juliaaano/rhdm-dependencies)
 
-Red Had Decision Manager POM dependencies.
+Red Hat Decision Manager POM dependencies.
 
 ## Use as a parent in pom.xml
 ```xml
