@@ -1,5 +1,8 @@
 # RHDM Dependencies
-[![Build Status](https://travis-ci.com/juliaaano/rhdm-dependencies.svg)](https://travis-ci.com/juliaaano/rhdm-dependencies)
+
+**This project is deprectated. Use project [RHPAM Dependencies](https://github.dev/juliaaano/rhpam-dependencies) instead.**
+
+---
 
 Red Hat Decision Manager POM dependencies.
 
