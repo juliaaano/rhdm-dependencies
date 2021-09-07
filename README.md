@@ -1,6 +1,6 @@
 # RHDM Dependencies
 
-**This project is deprectated. Use project [RHPAM Dependencies](https://github.dev/juliaaano/rhpam-dependencies) instead.**
+**This project is deprectated. Use project [RHPAM Dependencies](https://github.com/juliaaano/rhpam-dependencies) instead.**
 
 ---
 
